@@ -1,0 +1,15 @@
+E:\Game_GUI\obj\Debug\Game_GUI.csproj.AssemblyReference.cache
+E:\Game_GUI\obj\Debug\Game_GUI.Form1.resources
+E:\Game_GUI\obj\Debug\Game_GUI.Properties.Resources.resources
+E:\Game_GUI\obj\Debug\Game_GUI.csproj.GenerateResource.cache
+E:\Game_GUI\obj\Debug\Game_GUI.csproj.CoreCompileInputs.cache
+E:\Game_GUI\bin\Debug\Game_GUI.exe.config
+E:\Game_GUI\bin\Debug\Game_GUI.exe
+E:\Game_GUI\bin\Debug\Game_GUI.pdb
+E:\Game_GUI\obj\Debug\Game_GUI.exe
+E:\Game_GUI\obj\Debug\Game_GUI.pdb
+E:\Game_GUI\bin\Debug\EZInput.dll
+E:\Game_GUI\bin\Debug\EZInput.xml
+E:\Game_GUI\obj\Debug\Game_GUI.csproj.CopyComplete
+E:\Game_GUI\obj\Debug\Game_GUI.Form2.resources
+E:\Game_GUI\obj\Debug\Game_GUI.Form3.resources
